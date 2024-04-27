@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 		features="src\\test\\resources\\features\\regression",
 		glue="steps",
 		stepNotifications=true,
-		tags="@wip2604",
+		tags="@wip2704",
 		dryRun=false)
 public class RegRunner {
 
